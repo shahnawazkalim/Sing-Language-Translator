@@ -1,6 +1,6 @@
 # Sign Language Translator
 
-![Input Screetshot](images/output_H.png))
+![Input Screetshot](images/output_H.png)
 
 ## Abstract
 
